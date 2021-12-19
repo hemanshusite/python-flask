@@ -1,0 +1,21 @@
+.login{
+    border: 2px solid violet;
+    width: 30%;
+    margin: 200px auto;
+    background-color:rgb(175, 10, 175);
+}
+input{
+    display: flex;
+    margin: 12px auto;
+    width: 250px;
+    background: none;
+    padding: 5px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid black;
+    font-size: 18px;
+}
+button{
+    display: block;
+    margin: 10px auto;
+}
